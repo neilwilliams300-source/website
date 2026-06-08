@@ -1,0 +1,40 @@
+body {
+    background-image: url(../../../Pictures/images/itsiken-Bfjb9Fg_0lg-unsplash.jpg);
+    background-repeat: no-repeat;
+color: red;
+
+}
+
+.container {
+    max-width: 1000px
+    marginfit-content 0 auto;
+}
+
+div {
+    margin: 0 auto;
+}
+
+.banner {
+    height: 350px;
+    background-image: url(../../../Pictures/images/itsiken-Bfjb9Fg_0lg-unsplash.jpg)
+}
+
+.banner {
+    background-size: cover;
+}
+
+.banner {
+    background-position: center;
+}
+
+.photo {
+    background-position: 50percent right;
+}
+
+.icon {
+    background-position: 0 100px;
+}
+
+
+
+
