@@ -1,5 +1,5 @@
 body {
-    background-image: url(../../../Pictures/images/itsiken-Bfjb9Fg_0lg-unsplash.jpg);
+    background-image: url(https://images.pexels.com/photos/5014708/pexels-photo-5014708.jpeg?cs=srgb&dl=pexels-arthousestudio-5014708.jpg&fm=jpg&_gl=1*e5xq74*_ga*MTQ1OTUyNTQxNS4xNzgwODk1NDMy*_ga_8JE65Q40S6*czE3ODA4OTU0MzIkbzEkZzEkdDE3ODA4OTU0NDYkajQ2JGwwJGgw);
     background-repeat: no-repeat;
 color: red;
 
@@ -16,7 +16,8 @@ div {
 
 .banner {
     height: 350px;
-    background-image: url(../../../Pictures/images/itsiken-Bfjb9Fg_0lg-unsplash.jpg)
+    background-image: url("https://images.pexels.com/photos/15020541/pexels-photo-15020541.jpeg?cs=srgb&dl=pexels-dajana-reci-289671698-15020541.jpg&fm=jpg&_gl=1*113a69n*_ga*MTQ1OTUyNTQxNS4xNzgwODk1NDMy*_ga_8JE65Q40S6*czE3ODA4OTU0MzIkbzEkZzEkdDE3ODA4OTU0NDYkajQ2JGwwJGgw");
+
 }
 
 .banner {
@@ -33,6 +34,18 @@ div {
 
 .icon {
     background-position: 0 100px;
+}
+
+a {
+    color:aliceblue;
+}
+
+a:visited {
+    color:aqua;
+}
+
+a:hover, a:active {
+    color:green;
 }
 
 
